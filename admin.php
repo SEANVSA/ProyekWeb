@@ -1,15 +1,6 @@
 <?php
 include 'user_nav.php';
 ?>
-<!--
-profile
--->
-<div>
-    
-</div>
-<div>
-
-</div>
 
 <script src="js\bootstrap.bundle.min.js"></script>
 </div>
